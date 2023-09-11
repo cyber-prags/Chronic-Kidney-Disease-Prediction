@@ -1,2 +1,4 @@
 # Chronic-Kidney-Disease-Prediction
-Deployed various models to predict whether a person has Chronic Kidney Disease or not
+In this project I deployed various models to predict whether a person has Chronic Kidney Disease or not based on a certain set of parameters. Since it is a classification problem, we have used a **RandomForest Classifier** for making classifications and hypertuned it to attain the best possible accuracy on our test data.
+
+
